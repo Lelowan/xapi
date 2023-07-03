@@ -1,1 +1,1 @@
-cat server.properties
+tree
